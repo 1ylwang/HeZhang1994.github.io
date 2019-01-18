@@ -45,7 +45,7 @@ html, body
 
 	ul 
 	{
-		padding: 0;
+		padding-left: 5.0em;
 		list-style-position: outside;
 		list-style-type: disc;
 	}
