@@ -1,35 +1,30 @@
-html, body
+	html, body
 	{
-		height: 100%;
+		height: 100%;  /* Define the height of element(s). */
 	}
 	
 	body
+	/* Set basic properties of elements within <body> on webpage. */
+	/* If the properties of elements in sub-controler are not specified, */
+	/* those properties will be controled by super-controler. */
 	{
-		margin: 0px;
-		padding: 0px;
-		background: #202020;
-		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 12pt;
-		font-weight: 300;
-		color: #444444;
+		margin: 0px;  /* Margin creates extra space around an element. */
+		padding: 0px; /* Padding creates extra space within an element. */
+		background: #202020;  /* Set background color [32, 32, 32]. */
+		font-family: 'Source Sans Pro', sans-serif;  /* Set font type. */
+		font-size: 12pt;  /* Set font size. */
+		font-weight: 300; /* Set font weight such as bold or normal. */
+		color: #444444;   /* Set the color of element [68, 68, 68]. */
 	}
 	
-	
-	h1, h2
+	h1, h2, h3
+	/* Use h1 to h6 elements only for headings. */
+	/* Do not use them just to make text bold or big! */
 	{
 		margin: 0;
 		padding: 0;
 		font-weight: 600;
 		color: #333333;
-	}
-
-  	h3
-	{
-		/*text-transform: lowercase;*/
-    		margin-top: 0.5em;
-    		margin-bottom: 0.3em;
-		font-size: 1.3em;
-		text-align: left;
 	}
 	
 	p, ol, ul
@@ -37,28 +32,30 @@ html, body
 		margin-top: 0;
 	}
 	
-	ol
-	{
-		padding: 0;
-		list-style: none;
-	}
-	
-	ul.a
-	{
-		padding: 0;
-		list-style: none;
-	}
-	
-	ul.b
-	{
-		padding: 0;
-		list-style-position: outside;
-		list-style-type: disc;
-	}
-	
 	p
 	{
 		line-height: 180%;
+	}
+	
+	ol
+	{
+		padding: 0;
+		list-style: none;  /* No list style (-type, -position, -image). */
+	}
+	
+	ul.tpa
+	/* Set the properties of 1st list type. "tpa" can be changed to "1" or else. */
+	{
+		padding: 0;
+		list-style: none;
+	}
+	
+	ul.tpb
+	/* Set the properties of 2nd list type. "tpb" can be changed to "2" or else. */
+	{
+		padding: 0;
+		list-style-position: outside;  /* inside??? */
+		list-style-type: disc;  /* Full-filled circle. */
 	}
 	
 	strong
@@ -66,19 +63,24 @@ html, body
 	}
 	
 	a
+	/* Define a hyperlink! */
 	{
 		color: #2980b9;
 	}
 	
 	a:hover
+	/* IDK. */
 	{
 		text-decoration: none;
 	}
 	
 	.container
+	/* Set the properties of class="container" of id="" of <div>. */
 	{
 		overflow: hidden;
-		margin: 0em auto;
+		/* Control content too big to fit into an area. */
+		/* hidden - overflowing content is set to be invisible. */
+		margin: 0em auto;  /* Top and bottom - 0em, left and right - auto. */
 		width: 1200px;
 	}
 	
@@ -413,8 +415,8 @@ html, body
 
 	#header
 	{
-		position: relative;
-		float: left;
+		position: relative;  /* Element is centered in one row. */
+		float: left;  /* Set element to be floated on left side. */
 		width: 300px;
 		padding: 3em 0em;
 	}
@@ -425,7 +427,7 @@ html, body
 
 	#logo
 	{
-		text-align: center;
+		text-align: center;  /* Set the alignment of text. */ /* tbc... */
 		margin-bottom: 4em;
 	}
 	
