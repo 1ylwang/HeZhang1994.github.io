@@ -548,7 +548,7 @@ html, body
 	#copyright span
 	{
 		display: block;
-		letter-spacing: 0.20em;
+		letter-spacing: 0.10em;
 		line-height: 2.5em;
 		text-align: center;
 		/*text-transform: uppercase;*/
