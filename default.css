@@ -42,8 +42,14 @@ html, body
 		padding: 0;
 		list-style: none;
 	}
-
-	ul 
+	
+	ul.a
+	{
+		padding: 0;
+		list-style: none;
+	}
+	
+	ul.b
 	{
 		padding-left: 5.0em;
 		list-style-position: outside;
