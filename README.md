@@ -1,6 +1,8 @@
 # Personal Website Development
 
-This is the source HTML and CSS files of developing my personal website.
+This is the HTML5 implementation of developing my personal website. 
+
+The main template (see SourceTemplate_privy) is forked from [TEMPLATED](http://templated.co).
 
 # Description
 
