@@ -60,7 +60,7 @@ Verify your website on different search engines allow your website to be noticed
 
 2. Click top-left dropdown arrow and "Add property".
 
-3. Type [__https://aaa.github.io__] in the pop-up window and click "CONTINUE".
+3. Type __https://aaa.github.io__ in the pop-up window and click "CONTINUE".
 
 4. Download the file named as "google***.html" and upload to your GitHub repository.
 
