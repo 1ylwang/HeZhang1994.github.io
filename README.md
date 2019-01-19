@@ -62,7 +62,7 @@ Verify your website on different search engines allow your website to be noticed
 
 3. Type __https://aaa.github.io__ in the pop-up window and click "CONTINUE".
 
-4. Download the file named as "google***.html" and upload to your GitHub repository.
+4. Download the file named as "google***.html" and upload to your GitHub.io repository.
 
 5. Go back to the verification page. Wait a few minutes and click "VERIFY".
 
@@ -72,4 +72,16 @@ Verify your website on different search engines allow your website to be noticed
 
 1. Open [Baidu Resource Platform](https://ziyuan.baidu.com/) and login with your Baidu account.
 
-2. tbc...
+2. Click "Add Website" and complete user information.
+
+3. Type __https://aaa.github.io__ and click "NEXT".
+
+4. Select website attribute (e.g., information technology).
+
+5. Select verification method - document verifiction. 
+
+6. Download the file named as "baidu_verify***.html" and upload to your GitHub.io repository. 
+
+7. Go back to the verification page. Wait a few minutes and click "COMPLETE VERIFICATION".
+
+8. Verifiction on Baidu is completed!
