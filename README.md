@@ -6,17 +6,17 @@ The source template (see SourceTemplate_privy) is forked from [TEMPLATED](http:/
 
 # Description
 
-* default.css&#160;     - &#160; Define the structure, formats, and properties of webpage.
+* default.css&#160;&#160;&#160;&#160; - &#160; Define the structure, formats, and properties of webpage.
 
-* index.html&#160;      - &#160; Source code of home page of my website.
+* index.html&#160;&#160;&#160;&#160;&#160; - &#160; Source code of home page of my website.
 
-* hz***.html&#160;      - &#160; Source code of subpages of my website.
+* hz***.html&#160;&#160;&#160;&#160;&#160; - &#160; Source code of subpages of my website.
 
-* google**.html&#160;   - &#160; Verfication file of Google search console.
+* google***.html&#160; - &#160; Verfication file of Google search console.
 
-* baidu***.html&#160;   - &#160; Verfication file of Baidu serach console.
+* baidu***.html&#160;&#160; - &#160; Verfication file of Baidu serach console.
 
-* /images&#160;         - &#160; Source pictures of designing my website.
+* /images&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; - &#160; Source pictures of designing my website.
 
 # Configuration
 
