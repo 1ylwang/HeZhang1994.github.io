@@ -17,3 +17,15 @@ The source template (see SourceTemplate_privy) is forked from [TEMPLATED](http:/
 * baidu***.html   -  Verfication file of Baidu serach console.
 
 * /images         -  Source pictures of designing my website.
+
+# Configuration of Local GitHub
+
+Run the following command on your local computer:
+```bash
+$ git config --global user.email "xxx@xxx.xxx"
+# xxx@xxx.xxx is your register email on GitHub.
+$ git config --global user.name "aaa"
+# aaa is your user name on GitHub
+```
+
+
