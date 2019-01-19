@@ -18,14 +18,16 @@ The source template (see SourceTemplate_privy) is forked from [TEMPLATED](http:/
 
 * /images         -  Source pictures of designing my website.
 
-# Configuration of Local GitHub
+# Configuration
 
-Run the following command on your local computer:
+Run the following commands on your local computer to configure GitHub client:
 ```bash
 $ git config --global user.email "xxx@xxx.xxx"
 # xxx@xxx.xxx is your register email on GitHub.
 $ git config --global user.name "aaa"
 # aaa is your user name on GitHub
 ```
+
+
 
 
