@@ -48,4 +48,4 @@ $ git push -u origin master
 
 5. After a few minutes, open __https://aaa.github.io/__ on browser. You will see "Hello World" on your website.
 
-6. Add a template (.css) to repository and edit __index.html__ or other files (.html) to develop your website!
+6. Start adding a template (.css) to repository and editing __index.html__ or other files (.html) to develop your website!
