@@ -1,10 +1,10 @@
-# Personal Website Development
+# Personal Website Development using GitHub.io
 
 This is the HTML5 implementation of developing my personal website. 
 
 The source template (see [SourceTemplate_privy](https://github.com/HeZhang1994/HeZhang1994.github.io/tree/master/SourceTemplate_privy)) is forked from [TEMPLATED](http://templated.co).
 
-# Description
+# Files/Folders Description
 
 * default.css - Define the structure, formats, and properties of webpage.
 
@@ -18,7 +18,7 @@ The source template (see [SourceTemplate_privy](https://github.com/HeZhang1994/H
 
 * /images - Pictures of designing my website.
 
-# Configuration
+# Configuration and Estabilishment
 
 The following procedures are reposted from [https://pages.github.com/](https://pages.github.com/).
 
@@ -49,3 +49,17 @@ $ git push -u origin master
 5. After a few minutes, open __https://aaa.github.io/__ on browser. You will see "Hello World" on your website.
 
 6. Start adding a template (.css) to repository and editing __index.html__ or other files (.html) to develop your website!
+
+# Verification of Website
+
+Verify your website on different search engines allow your website to be noticed by other Internet users.
+
+## Verify website on Google
+
+## Verify website on Baidu
+
+
+
+
+# Useful Links
+
