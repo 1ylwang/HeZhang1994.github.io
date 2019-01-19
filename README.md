@@ -6,14 +6,14 @@ The source template (see SourceTemplate_privy) is forked from [TEMPLATED](http:/
 
 # Description
 
-* default.css - Define the structure, format, and properties of webpage.
+* default.css     -  Define the structure, formats, and properties of webpage.
 
-* index.html - Home page of my website.
+* index.html      -  Source code of home page of my website.
 
-* hz***.html - Subpages of my website.
+* hz***.html      -  Source code of subpages of my website.
 
-* google***.html - Google search console verfication file.
+* google***.html  -  Verfication file of Google search console.
 
-* baidu***.html - Baidu serach console verfication file.
+* baidu***.html   -  Verfication file of Baidu serach console.
 
-* /images - Folder that contains pictures of my website.
+* /images         -  Source pictures of designing my website.
