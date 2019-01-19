@@ -54,9 +54,9 @@ $ git push -u origin master
 
 Verify your website on different search engines allow your website to be noticed by other Internet users.
 
-## Verify website on Google
+### Verify website on Google
 
-## Verify website on Baidu
+### Verify website on Baidu
 
 
 
