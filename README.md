@@ -12,11 +12,11 @@ The source template (see SourceTemplate_privy) is forked from [TEMPLATED](http:/
 
 * hz***.html - Source code of subpages of my website.
 
-* google***.html - Verfication file of Google search console.
+* google***.html - Verfication file of Google search engine.
 
-* baidu***.html - Verfication file of Baidu serach console.
+* baidu***.html - Verfication file of Baidu serach engine.
 
-* /images - Source pictures of designing my website.
+* /images - Pictures of designing my website.
 
 # Configuration
 
@@ -37,7 +37,7 @@ $ git config --global user.name "aaa"
 $ git clone https://github.com/aaa/aaa.github.io
 ```
 
-4. Create root page and add contents to your website by running commands on Terminal:
+4. Add contents to your website by running commands on Terminal, which will create a root page (__index.html__):
 ```bash
 $ cd aaa.github.io
 $ echo "Hello World" > index.html
