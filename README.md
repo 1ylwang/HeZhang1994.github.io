@@ -1,6 +1,6 @@
 # Personal Website Development
 
-This is the source HTML and CSS files of my personal website.
+This is the source HTML and CSS files of developing my personal website.
 
 # Description
 
