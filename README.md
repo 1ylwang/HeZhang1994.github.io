@@ -20,7 +20,7 @@ The source template (see SourceTemplate_privy) is forked from [TEMPLATED](http:/
 
 # Configuration
 
-Run the following commands on your local computer to configure GitHub client:
+1. Run the following commands on your local computer to configure GitHub client:
 ```bash
 $ git config --global user.email "xxx@xxx.xxx"
 # xxx@xxx.xxx is your register email on GitHub.
@@ -28,6 +28,26 @@ $ git config --global user.name "aaa"
 # aaa is your user name on GitHub
 ```
 
+The following procedures are reposted from [https://pages.github.com/](https://pages.github.com/).
 
+2. Create __aaa.github.io__ (public) repository on GitHub, where __aaa__ is your user name. 
 
+Note: You can use templates provided by GitHub after creating repository (see [here](https://blog.csdn.net/renfufei/article/details/37725057)). If you want to use other templates, continue the follwoing procedures.
 
+3. Clone __aaa.github.io__ repository to your local computer by run the following command on Terminal:
+```bash
+$ git clone https://github.com/aaa/aaa.github.io
+```
+
+4. Add content to your website by run the following commands on Terminal:
+```bash
+$ cd aaa.github.io
+$ echo "Hello World" > index.html
+$ git add --all
+$ git commit -m "Initial commit"
+$ git push -u origin master
+```
+
+5. After a few minutes, open __https://aaa.github.io/__ on browser, you will see "Hello World" on your website.
+
+6. Now add a template (.css) and start to edit __index.html__ and other files (.html) to design your website!
