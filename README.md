@@ -30,9 +30,7 @@ $ git config --global user.name "aaa"
 
 The following procedures are reposted from [https://pages.github.com/](https://pages.github.com/).
 
-2. Create __aaa.github.io__ (public) repository on GitHub, where __aaa__ is your user name. 
-
-Note: You can use templates provided by GitHub after creating repository (see [here](https://blog.csdn.net/renfufei/article/details/37725057)). If you want to use other templates, continue the follwoing procedures.
+2. Create __aaa.github.io__ (public) repository on GitHub, where __aaa__ is your user name. Note: You can use templates provided by GitHub after creating repository (see [here](https://blog.csdn.net/renfufei/article/details/37725057)). If you want to use other templates, continue the follwoing procedures.
 
 3. Clone __aaa.github.io__ repository to your local computer by run the following command on Terminal:
 ```bash
