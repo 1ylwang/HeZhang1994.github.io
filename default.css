@@ -50,6 +50,13 @@
 		list-style: none;
 	}
 	
+	ul.tpb
+	/* Set the properties of 2nd list type. "tpb" can be changed to "2" or else. */
+	{
+		list-style-position: outside;  /* inside??? */
+		list-style-type: disc;  /* Full-filled circle. */
+	}
+	
 	strong
 	{
 	}
