@@ -43,7 +43,7 @@
 		list-style: none;  /* No list style (-type, -position, -image). */
 	}
 	
-	ul
+	ul.tpa
 	/* Set the properties of 1st list type. "tpa" can be changed to "1" or else. */
 	{
 		padding: 0;
