@@ -13,3 +13,5 @@ This is the source HTML and CSS files of developing my personal website.
 * google***.html - Google search console verfication file.
 
 * baidu***.html - Baidu serach console verfication file.
+
+* /images - Folder that contains pictures of my website.
