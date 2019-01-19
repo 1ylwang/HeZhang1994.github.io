@@ -56,10 +56,20 @@ Verify your website on different search engines allow your website to be noticed
 
 ### Verify website on Google
 
+1. Open [Google Search Console](https://search.google.com/search-console/about) and login with your Google account.
+
+2. Click top-left dropdown arrow and "Add property".
+
+3. Type __https://aaa.github.io__ in the pop-up window and click "CONTINUE".
+
+4. Download the file named as "google***.html" and upload to your GitHub repository.
+
+5. Go back to the verification page. Wait a few minutes and click "VERIFY".
+
+6. Verification on Google is completed!
+
 ### Verify website on Baidu
 
+1. Open [Baidu Resource Platform](https://ziyuan.baidu.com/) and login with your Baidu account.
 
-
-
-# Useful Links
-
+tbc...
