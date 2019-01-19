@@ -2,7 +2,7 @@
 
 This is the HTML5 implementation of developing my personal website. 
 
-The source template (see SourceTemplate_privy) is forked from [TEMPLATED](http://templated.co).
+The source template (see [SourceTemplate_privy](https://github.com/HeZhang1994/HeZhang1994.github.io/tree/master/SourceTemplate_privy)) is forked from [TEMPLATED](http://templated.co).
 
 # Description
 
