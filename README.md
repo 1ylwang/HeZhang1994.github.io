@@ -48,7 +48,7 @@ $ cd aaa.github.io
 
 5. After a few minutes, open __https://aaa.github.io/__ on browser and see "Hello World" on your website.
 
-6. Develop your website by adding templates (.css) and editing __index.html__ or other files (.html) on GitHub.io repository!
+6. Develop website by editing templates (.css), index.html, and other files (.html) on GitHub.io repository.
 
 # Verification of Website
 
@@ -66,15 +66,15 @@ Verifying your website on different search engines allows website to be noticed 
 
 5. Go back to the verification page. Wait a few minutes and click "VERIFY".
 
-6. Verification on Google is completed!
+6. Complete verification on Google search engine!
 
 ### Verify website on Baidu
 
-1. Open [Baidu Resource Platform](https://ziyuan.baidu.com/) and login with your Baidu account.
+1. Open [Baidu Resource Platform](https://ziyuan.baidu.com/) and login with Baidu account.
 
-2. Click "Add Website" and complete user information.
+2. Click "Add Website" and complete user information (if required).
 
-3. Type __https://aaa.github.io__ and click "NEXT".
+3. Type __https://aaa.github.io__ in the input box and click "NEXT".
 
 4. Select website attribute (e.g., information technology).
 
@@ -84,4 +84,4 @@ Verifying your website on different search engines allows website to be noticed 
 
 7. Go back to the verification page. Wait a few minutes and click "COMPLETE VERIFICATION".
 
-8. Verifiction on Baidu is completed!
+8. Complete verifiction on Baidu search engine!
