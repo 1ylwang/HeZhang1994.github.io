@@ -86,7 +86,7 @@ Verifying your website on different search engines allows website to be noticed 
 
 8. Complete verifiction on Baidu search engine!
 
-# Useful Link
+# Useful Links
 
 * Online HTML and CSS editor - [CodePen](https://codepen.io/)
 
