@@ -30,14 +30,14 @@ $ git config --global user.name "aaa"
 # aaa is your user name on GitHub
 ```
 
-2. Create __aaa.github.io__ (public) repository on GitHub, where __aaa__ is also your user name！You can use webpage templates provided by GitHub now (see [here](https://blog.csdn.net/renfufei/article/details/37725057)), or continue the following steps and use other templates later.
+2. Create __aaa.github.io__ (public) repository on GitHub, where __aaa__ is your GitHub user name！Use webpage templates provided by GitHub now (see [here](https://blog.csdn.net/renfufei/article/details/37725057)), or continue the following steps and use other templates later.
 
-3. Clone __aaa.github.io__ repository to your local computer by executing command on Terminal:
+3. Clone __aaa.github.io__ repository to local computer by executing command on Terminal:
 ```bash
 $ git clone https://github.com/aaa/aaa.github.io
 ```
 
-4. Add contents to your website by executing commands on Terminal (this will create the root page __index.html__):
+4. Add contents to the website by executing commands on Terminal (this will create the root webpage __index.html__):
 ```bash
 $ cd aaa.github.io
 ~$ echo "Hello World" > index.html
@@ -46,7 +46,7 @@ $ cd aaa.github.io
 ~$ git push -u origin master
 ```
 
-5. After a few minutes, open __https://aaa.github.io/__ on browser and see "Hello World" on your website.
+5. After a few minutes, open __https://aaa.github.io/__ on browser and see "Hello World" on the website.
 
 6. Develop website by editing templates (.css), index.html, and other files (.html) on GitHub.io repository.
 
