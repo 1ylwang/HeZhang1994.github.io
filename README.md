@@ -25,12 +25,12 @@ The following procedures are partly reposted from [https://pages.github.com/](ht
 1. Configure GitHub client on local computer by executing commands on Terminal:
 ```bash
 $ git config --global user.email "xxx@xxx.xxx"
-# xxx@xxx.xxx is your register email on GitHub.
+# xxx@xxx.xxx is your registered email on GitHub.
 $ git config --global user.name "aaa"
 # aaa is your user name on GitHub
 ```
 
-2. Create __aaa.github.io__ (public) repository on GitHub, where __aaa__ is your user name！You can use templates provided by GitHub now (see [here](https://blog.csdn.net/renfufei/article/details/37725057)), or continue the following steps and use other templates later.
+2. Create __aaa.github.io__ (public) repository on GitHub, where __aaa__ is also your user name！You can use webpage templates provided by GitHub now (see [here](https://blog.csdn.net/renfufei/article/details/37725057)), or continue the following steps and use other templates later.
 
 3. Clone __aaa.github.io__ repository to your local computer by executing command on Terminal:
 ```bash
