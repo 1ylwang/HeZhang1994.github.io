@@ -85,3 +85,9 @@ Verifying your website on different search engines allows website to be noticed 
 7. Go back to the verification page. Wait a few minutes and click "COMPLETE VERIFICATION".
 
 8. Complete verifiction on Baidu search engine!
+
+# Useful Link
+
+* Online HTML and CSS editor - [CodePen](https://codepen.io/)
+
+* Online picture resizer - [Picresize](http://www.picresize.com/)
