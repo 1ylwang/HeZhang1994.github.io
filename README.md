@@ -1,4 +1,4 @@
-# Develp Personal Website
+# Develop Personal Academic Website
 
 This is the **HTML** implementation of developing personal academic website with GitHub.io.
 
