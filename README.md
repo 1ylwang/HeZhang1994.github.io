@@ -93,3 +93,5 @@ Verifying your website on different search engines allows website to be noticed 
 * Online picture resizer - [Picresize](http://www.picresize.com/)
 
 * Online picture format converter - [Online-Converter](https://www.online-convert.com/)
+
+<i>Last updated: 28/01/2019</i>
