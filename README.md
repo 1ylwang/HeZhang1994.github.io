@@ -94,4 +94,4 @@ Verifying your website on different search engines allows website to be noticed 
 
 * Online picture format converter - [Online-Converter](https://www.online-convert.com/)
 
-<i>Last updated: 29/01/2019</i>
+<i>Last updated: 03/02/2019</i>
