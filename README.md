@@ -22,7 +22,7 @@ The source template [SourceTemplate_privy](https://github.com/HeZhang1994/HeZhan
 
 ## Configuration and Estabilishment
 
-The following procedures for estabilishing website described in [GitHub User Guide](https://pages.github.com/) are partly reproduced here.
+The following procedures for estabilishing website described in [GitHub User Guide](https://pages.github.com/) are partly recapitulated here.
 
 1. Configure GitHub client on local computer by executing commands in Terminal.
 ```bash
