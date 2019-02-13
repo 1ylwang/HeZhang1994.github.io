@@ -22,7 +22,7 @@ The source template [SourceTemplate_privy](https://github.com/HeZhang1994/HeZhan
 
 ## Configuration and Estabilishment
 
-The following procedures for estabilishing website are partly reproduced from [GitHub User Guide](https://pages.github.com/).
+The following procedures for estabilishing website described in [GitHub User Guide](https://pages.github.com/) are partly reproduced here.
 
 1. Configure GitHub client on local computer by executing commands in Terminal.
 ```bash
@@ -96,4 +96,4 @@ Verifying your website on different search engines allows it to be noticed by us
 
 * Online picture format converter - [Online-Converter](https://www.online-convert.com/)
 
-<i>Last updated: 12/02/2019</i>
+<i>Last updated: 13/02/2019</i>
