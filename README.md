@@ -1,6 +1,6 @@
 # Develop Personal Academic Website
 
-This is a **HTML-CSS** implementation for developing personal academic website with GitHub.io.
+This is an **HTML-CSS** implementation for developing personal academic website with GitHub.io.
 
 The source template ```SourceTemplate_privy``` is forked from [TEMPLATED](http://templated.co).
 
