@@ -37,7 +37,7 @@ $ git config --global user.name "aaa"
 $ git clone https://github.com/aaa/aaa.github.io
 ```
 
-4. Add contents to the website by executing commands in Terminal (this will create the home page __index.html__).
+4. Add contents to the website by executing commands in Terminal (this will create the home page ```index.html```).
 ```bash
 $ cd aaa.github.io
 ~$ echo "Hello World" > index.html
@@ -62,7 +62,7 @@ Verifying your website on different search engines allows it to be noticed by us
 
 3. Type __https://aaa.github.io__ in the input box of pop-up window and click "CONTINUE".
 
-4. Download the file called "google***.html" and upload it to your GitHub.io repository.
+4. Download the file called ```google***.html``` and upload it to your GitHub.io repository.
 
 5. Go back to the verification page. Wait a few minutes and click "VERIFY".
 
@@ -80,7 +80,7 @@ Verifying your website on different search engines allows it to be noticed by us
 
 5. Select verification method - document verification.
 
-6. Download the file named as "baidu_verify***.html" and upload to your GitHub.io repository.
+6. Download the file named as ```baidu_verify***.html``` and upload to your GitHub.io repository.
 
 7. Go back to the verification page. Wait a few minutes and click "COMPLETE VERIFICATION".
 
