@@ -1,10 +1,8 @@
 # Develop Personal Academic Website
 
-This is a **HTML** implementation of developing personal academic website with GitHub.io.
+This is a **HTML-CSS** implementation for developing personal academic website with GitHub.io.
 
-The source template [SourceTemplate_privy](https://github.com/HeZhang1994/HeZhang1994.github.io/tree/master/SourceTemplate_privy) is forked from [TEMPLATED](http://templated.co).
-
-<i>Please star this repository if you found its content useful.</i>
+The source template ```SourceTemplate_privy``` is forked from [TEMPLATED](http://templated.co).
 
 ## Information of Files/Folders
 
@@ -96,4 +94,10 @@ Verifying your website on different search engines allows it to be noticed by us
 
 * Online picture format converter - [Online-Converter](https://www.online-convert.com/)
 
-<i>Last updated: 13/02/2019</i>
+</br>
+
+<i>Please star this repository if you found its content useful. Thank you very much.</i>
+
+<i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
+
+<i>Last updated: 14/02/2019</i>
