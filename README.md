@@ -18,9 +18,9 @@ The source template ```SourceTemplate_privy``` is forked from [TEMPLATED](http:/
 
 - ```/images``` - Pictures used in designing website.
 
-## Configuration and Estabilishment
+## Configuration and Establishment
 
-The following procedures for estabilishing website described in [GitHub User Guide](https://pages.github.com/) are partly recapitulated here.
+The following procedures for establishing website described in [GitHub User Guide](https://pages.github.com/) are partly recapitulated here.
 
 1. Configure GitHub client on local computer by executing commands in Terminal.
 ```bash
@@ -94,10 +94,11 @@ Verifying your website on different search engines allows it to be noticed by us
 
 * Online picture format converter - [Online-Converter](https://www.online-convert.com/)
 
-</br>
+<br>
 
 <i>Please star this repository if you found its content useful. Thank you very much.</i>
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
 
 <i>Last updated: 15/02/2019</i>
+
