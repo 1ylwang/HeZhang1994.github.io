@@ -1,5 +1,7 @@
 # Develop Personal Academic Website
 
+[![image](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
+
 This is an **HTML-CSS** implementation for developing personal academic website with GitHub.io.
 
 The source template ```SourceTemplate_privy``` is forked from [TEMPLATED](http://templated.co).
