@@ -1,6 +1,8 @@
 # Develop Personal Academic Website
 
 [![image](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
+[![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
+[![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
 This is an **HTML-CSS** implementation for developing personal academic website with GitHub.io.
 
