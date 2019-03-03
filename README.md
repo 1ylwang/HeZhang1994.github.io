@@ -1,6 +1,7 @@
 # Develop Personal Academic Website
 
 [![image](https://img.shields.io/badge/license-MIT-lightgrey.svg)]()
+[![image](https://img.shields.io/badge/lagrange-html%20%7C%20css-blue.svg)]()
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
