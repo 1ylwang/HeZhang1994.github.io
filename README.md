@@ -4,29 +4,29 @@
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-This is an **HTML-CSS** implementation for developing personal academic website with GitHub.io.
+This is an **HTML-CSS** implementation of developing personal academic website with **GitHub.io**.
 
-The source template ```SourceTemplate_privy``` is forked from [TEMPLATED](http://templated.co).
+The source template in ```SourceTemplate_privy/``` is forked from [TEMPLATED](http://templated.co).
 
-## Information of Files/Folders
+## Description of Files/Folders
 
 - ```default.css``` - Define the structure, formats, and properties of website.
 
-- ```index.html``` - Source code of home page of website.
+- ```index.html``` - Source code of home page.
 
-- ```hz***.html``` - Source code of child web pages of website.
+- ```hz***.html``` - Source code of child web pages.
 
 - ```google***.html``` - Verification file of Google search engine.
 
 - ```baidu***.html``` - Verification file of Baidu search engine.
 
-- ```/images``` - Pictures used in designing website.
+- ```images/``` - Pictures used in developing website.
 
 ## Configuration and Establishment
 
-The following procedures for establishing website described in [GitHub User Guide](https://pages.github.com/) are partly recapitulated here.
+The following procedures for establishing website are partly recapitulated from [GitHub Guide](https://pages.github.com/).
 
-1. Configure GitHub client on local computer by executing commands in Terminal.
+1. Configure GitHub client on local computer.
 ```bash
 $ git config --global user.email "xxx@xxx.xxx"
 # xxx@xxx.xxx is your registered email on GitHub.
@@ -34,14 +34,14 @@ $ git config --global user.name "aaa"
 # aaa is your user name on GitHub
 ```
 
-2. Create __aaa.github.io__ (public) repository on GitHub, where __aaa__ is your GitHub user name！Use web page templates provided by GitHub now (see [here](https://blog.csdn.net/renfufei/article/details/37725057)), or continue the following steps and use other templates later.
+2. Create __aaa.github.io__ (public) repository on GitHub, where __aaa__ is your GitHub user name！You can use web page templates provided by GitHub now (see [here](https://blog.csdn.net/renfufei/article/details/37725057)), or continue the configuration and use other templates later.
 
-3. Clone __aaa.github.io__ repository to local computer by executing command in Terminal.
+3. Clone __aaa.github.io__ repository to local computer.
 ```bash
 $ git clone https://github.com/aaa/aaa.github.io
 ```
 
-4. Add contents to the website by executing commands in Terminal (this will create the home page ```index.html```).
+4. Add contents to the website (this will create the home page ```index.html```).
 ```bash
 $ cd aaa.github.io
 ~$ echo "Hello World" > index.html
@@ -56,7 +56,7 @@ $ cd aaa.github.io
 
 ## Verification of Website
 
-Verifying your website on different search engines allows it to be noticed by users through Internet.
+Verifying your website on different search engines allows it to be retrieved by users through the Internet.
 
 ### Verify website on Google
 
