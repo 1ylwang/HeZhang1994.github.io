@@ -441,6 +441,7 @@
 		display: block;  /* Display the element on a new line. */
 		font-size: 1.5em;
 		color: rgba(255,255,255,0.1);  /* Closely to white. */
+		margin-bottom: 0.75em;
 	}
 	
 	#logo a
@@ -455,6 +456,7 @@
 		padding-right: 0.5em;
 		font-size: 0.90em;
 		color: rgba(255,255,255,0.5);  /* Closely to white. */
+		margin-bottom: 0.5em;
 	}
 
 	#logo span a
