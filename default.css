@@ -442,7 +442,7 @@
 		font-size: 1.5em;
 		/* color: rgba(255,255,255,0.1); */  /* Closely to white. */
 		color: #FFF;
-		margin-bottom: 0.75em;
+		padding-bottom: 0.5em;
 	}
 	
 	#logo a
@@ -457,7 +457,7 @@
 		padding-right: 0.5em;
 		font-size: 0.90em;
 		color: rgba(255,255,255,0.5);  /* Closely to white. */
-		margin-bottom: 0.5em;
+		padding-bottom: 0.3em;
 	}
 
 	#logo span a
