@@ -440,7 +440,8 @@
 	{
 		display: block;  /* Display the element on a new line. */
 		font-size: 1.5em;
-		color: rgba(255,255,255,0.1);  /* Closely to white. */
+		/* color: rgba(255,255,255,0.1); */  /* Closely to white. */
+		color: #FFF;
 		margin-bottom: 0.75em;
 	}
 	
