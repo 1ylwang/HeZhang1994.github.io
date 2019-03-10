@@ -5,7 +5,7 @@
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-This is an **HTML-CSS** implementation of developing personal academic website with **GitHub.io**.
+This is an **HTML-CSS** implementation of developing personal website with **GitHub.io**.
 
 The source template in ```SourceTemplate_privy/``` is forked from [TEMPLATED](http://templated.co).
 
@@ -105,5 +105,5 @@ Verifying your website on different search engines allows it to be retrieved by 
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
 
-<i>Last updated: 07/03/2019</i>
+<i>Last updated: 10/03/2019</i>
 
