@@ -64,6 +64,8 @@ $ cd aaa.github.io
 
 Verifying your website on search engines allows it to be retrieved by users through the Internet.
 
+<img src="https://github.com/HeZhang1994/HeZhang1994.github.io/blob/master/images/imgGIF_SAME.gif" height="400">
+
 1. Open [Google Search Console](https://search.google.com/search-console/about) and log in with Google account.
 
 2. Click top-left drop-down arrow and click "+ Add property".
