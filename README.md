@@ -40,14 +40,14 @@ $ git config --global user.name "aaa"
 # E.g., $ git config --global user.name "hz".
 ```
 
-2. Create __aaa.github.io__ (public) repository on GitHub, where __aaa__ is your GitHub user name. You can use web page templates provided by GitHub now (see [here](https://blog.csdn.net/renfufei/article/details/37725057)), or continue the configuration and use other templates later.
+2. Create __aaa.github.io__ (public) repository on GitHub, where __aaa__ should be your GitHub user name. You can use web page templates provided by GitHub now (see [here](https://blog.csdn.net/renfufei/article/details/37725057)), or continue the configuration and use other templates later.
 
 3. Clone __aaa.github.io__ repository to your local computer.
 ```bash
 $ git clone https://github.com/aaa/aaa.github.io
 ```
 
-4. Add contents to the website (this will create the home page `index.html`).
+4. Add some contents to the website (this will create `index.html`).
 ```bash
 $ cd aaa.github.io
 ~$ echo "Hello World" > index.html
@@ -58,11 +58,11 @@ $ cd aaa.github.io
 
 5. After a few minutes, open __https://aaa.github.io/__ on browser and you will see "Hello World" on the website.
 
-6. Develop website by editing/creating `default.css`, `index.html`, and other HTML files.
+6. Now you can start to develop website by editing/creating `default.css`, `index.html`, and other HTML files.
 
 ## Website Verification on Google Search Engine
 
-Verifying your website on different search engines allows it to be retrieved by users through the Internet. Last updated: 01 Feb 2019.
+Verifying your website on search engines allows it to be retrieved by users through the Internet.
 
 1. Open [Google Search Console](https://search.google.com/search-console/about) and log in with Google account.
 
