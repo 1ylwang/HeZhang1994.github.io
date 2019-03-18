@@ -70,9 +70,11 @@ Verifying your website on search engines allows it to be retrieved by users thro
 
 2. Click top-left drop-down arrow and click "+ Add property".
 
-3. Type __https://aaa.github.io__ in the input box of pop-up window and click "CONTINUE".
+3. Select "URL prefix" tag on the left pop-up window.
 
-4. Download the verification file `google***.html` and upload it to your GitHub.io repository.
+3. Type __https://aaa.github.io__ in the bottom input box and click "CONTINUE".
+
+4. Download the verification file `google***.html` from the new pop-up window and upload it to GitHub.io repository.
 
 5. Go back to the verification page. Wait a few minutes and click "VERIFY".
 
