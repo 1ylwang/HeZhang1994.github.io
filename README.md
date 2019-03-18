@@ -32,11 +32,11 @@ The following procedures for configuring and establishing website are partly rec
 1. Configure GitHub client on your local computer.
 ```bash
 $ git config --global user.email "xxx@xxx.xxx"
-# Replace xxx@xxx.xxx with your GitHub registered email.
+# Replace 'xxx@xxx.xxx' with your GitHub registered email.
 # E.g., $ git config --global user.email "hz@gmail.com".
 
 $ git config --global user.name "aaa"
-# Replace aaa with your GitHub user name.
+# Replace 'aaa' with your GitHub user name.
 # E.g., $ git config --global user.name "hz".
 ```
 
@@ -70,15 +70,13 @@ Verifying your website on search engines allows it to be retrieved by users thro
 
 2. Click top-left drop-down arrow and click "+ Add property".
 
-3. Select "URL prefix" tag on the left pop-up window.
+3. Type "https://aaa.github.io" in the input box of "URL prefix" tag and click "CONTINUE".
 
-3. Type __https://aaa.github.io__ in the bottom input box and click "CONTINUE".
-
-4. Download the verification file `google***.html` from the new pop-up window and upload it to GitHub.io repository.
+4. Download the verification file `google***.html` and upload it to GitHub.io repository.
 
 5. Go back to the verification page. Wait a few minutes and click "VERIFY".
 
-6. Complete verification on Google search engine!
+6. Verification on Google search engine is accomplished.
 
 <!--
 ### Baidu Search Engine
@@ -107,4 +105,3 @@ Verifying your website on search engines allows it to be retrieved by users thro
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
 
 <i>Last updated: 18/03/2019</i>
-
