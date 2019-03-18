@@ -7,13 +7,13 @@
 
 This is an **HTML-CSS** implementation of developing personal website with **GitHub.io**.
 
-Many thanks to the [TEMPLATED](http://templated.co) for providing the source template in `SourceTemplate_privy/`.
+Many thanks to [TEMPLATED](http://templated.co) for providing the source template in `SourceTemplate_privy/`.
 
-## Description of Folders/Files.
+## Contents.
 
 - `audio/` - The folder that contains the audio used in website.
 
-- `images/` - The folder that contains the pictures used in website.
+- `images/` - The folder that contains the images used in website.
 
 - `default.css` - The CSS file that defines the characteristics of website.
 
@@ -21,13 +21,13 @@ Many thanks to the [TEMPLATED](http://templated.co) for providing the source tem
 
 - `hz***.html` - The HTML source file of child web pages.
 
-- `baidu***.html` - The verification file of Baidu search engine.
-
 - `google***.html` - The verification file of Google search engine.
 
-## Configuration and Establishment
+<!--- `baidu***.html` - The verification file of Baidu search engine.-->
 
-The following procedures for developing website are partly recapitulated from [GitHub Guide](https://pages.github.com/). For more information of `git`, see the detailed online [tutorial](https://chryswoods.com/beginning_git/) provided by Christopher Woods.
+## Website Configuration and Establishment
+
+The following procedures for configuring and establishing website are partly recapitulated from [GitHub Guide](https://pages.github.com/). For detailed information of how to use `git`, see the [online tutorial](https://chryswoods.com/beginning_git/) provided by [Christopher Woods](https://github.com/chryswoods).
 
 1. Configure GitHub client on your local computer.
 ```bash
@@ -60,11 +60,9 @@ $ cd aaa.github.io
 
 6. Develop website by editing/creating `default.css`, `index.html`, and other HTML files.
 
-## Verification of Website
+## Website Verification on Google Search Engine
 
 Verifying your website on different search engines allows it to be retrieved by users through the Internet. Last updated: 01 Feb 2019.
-
-### Google Search Engine
 
 1. Open [Google Search Console](https://search.google.com/search-console/about) and log in with Google account.
 
@@ -72,29 +70,23 @@ Verifying your website on different search engines allows it to be retrieved by 
 
 3. Type __https://aaa.github.io__ in the input box of pop-up window and click "CONTINUE".
 
-4. Download the verfication file `google***.html` and upload it to your GitHub.io repository.
+4. Download the verification file `google***.html` and upload it to your GitHub.io repository.
 
 5. Go back to the verification page. Wait a few minutes and click "VERIFY".
 
 6. Complete verification on Google search engine!
 
+<!--
 ### Baidu Search Engine
-
 1. Open [Baidu Resource Platform](https://ziyuan.baidu.com/) and log in with Baidu account.
-
 2. Click "Add Website" and complete user information (if required).
-
 3. Type __https://aaa.github.io__ in the input box and click "NEXT".
-
 4. Select website attribute (e.g., Information Technology).
-
 5. Select verification method - document verification.
-
 6. Download the verification file `baidu_verify***.html` and upload it to your GitHub.io repository.
-
 7. Go back to the verification page. Wait a few minutes and click "COMPLETE VERIFICATION".
-
 8. Complete verification on Baidu search engine!
+-->
 
 ## Useful Links
 
