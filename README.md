@@ -64,7 +64,7 @@ $ cd aaa.github.io
 
 Verifying your website on search engines allows it to be retrieved by users through the Internet.
 
-<img src="https://github.com/HeZhang1994/HeZhang1994.github.io/blob/master/images/Website_Verification_Google.gif" height="350">
+<img src="https://github.com/HeZhang1994/HeZhang1994.github.io/blob/master/images/Website_GoogleVerification.gif" height="350">
 
 1. Open [Google Search Console](https://search.google.com/search-console/about) and log in with Google account.
 
