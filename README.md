@@ -7,44 +7,47 @@
 
 This is an **HTML-CSS** implementation of developing personal website with **GitHub.io**.
 
-The source template in ```SourceTemplate_privy/``` is forked from [TEMPLATED](http://templated.co).
+Many thanks to the [TEMPLATED](http://templated.co) for providing the source template in `SourceTemplate_privy/`.
 
-## Description of Files/Folders
+## Description of Folders/Files.
 
-- ```default.css``` - Define the structure, formats, and properties of website.
+- `audio/` - The folder that contains the audio used in website.
 
-- ```index.html``` - Source code of home page.
+- `images/` - The folder that contains the pictures used in website.
 
-- ```hz***.html``` - Source code of child web pages.
+- `default.css` - The CSS file that defines the characteristics of website.
 
-- ```images/``` - Pictures used in developing website.
+- `index.html` - The HTML source file of home page.
 
-- ```audio/``` - Audio used in developing website.
+- `hz***.html` - The HTML source file of child web pages.
 
-- ```google***.html``` - Verification file of Google search engine.
+- `baidu***.html` - The verification file of Baidu search engine.
 
-- ```baidu***.html``` - Verification file of Baidu search engine.
+- `google***.html` - The verification file of Google search engine.
 
 ## Configuration and Establishment
 
-The following procedures for establishing website are partly recapitulated from [GitHub Guide](https://pages.github.com/).
+The following procedures for developing website are partly recapitulated from [GitHub Guide](https://pages.github.com/). For more information of `git`, see the detailed online [tutorial](https://chryswoods.com/beginning_git/) provided by Christopher Woods.
 
-1. Configure GitHub client on local computer.
+1. Configure GitHub client on your local computer.
 ```bash
 $ git config --global user.email "xxx@xxx.xxx"
-# xxx@xxx.xxx is your registered email on GitHub.
+# Replace xxx@xxx.xxx with your GitHub registered email.
+# E.g., $ git config --global user.email "hz@gmail.com".
+
 $ git config --global user.name "aaa"
-# aaa is your user name on GitHub
+# Replace aaa with your GitHub user name.
+# E.g., $ git config --global user.name "hz".
 ```
 
-2. Create __aaa.github.io__ (public) repository on GitHub, where __aaa__ is your GitHub user name！You can use web page templates provided by GitHub now (see [here](https://blog.csdn.net/renfufei/article/details/37725057)), or continue the configuration and use other templates later.
+2. Create __aaa.github.io__ (public) repository on GitHub, where __aaa__ is your GitHub user name. You can use web page templates provided by GitHub now (see [here](https://blog.csdn.net/renfufei/article/details/37725057)), or continue the configuration and use other templates later.
 
-3. Clone __aaa.github.io__ repository to local computer.
+3. Clone __aaa.github.io__ repository to your local computer.
 ```bash
 $ git clone https://github.com/aaa/aaa.github.io
 ```
 
-4. Add contents to the website (this will create the home page ```index.html```).
+4. Add contents to the website (this will create the home page `index.html`).
 ```bash
 $ cd aaa.github.io
 ~$ echo "Hello World" > index.html
@@ -53,15 +56,15 @@ $ cd aaa.github.io
 ~$ git push -u origin master
 ```
 
-5. After a few minutes, open __https://aaa.github.io/__ on browser and see "Hello World" on the website.
+5. After a few minutes, open __https://aaa.github.io/__ on browser and you will see "Hello World" on the website.
 
-6. Develop website by editing templates (.css), ```index.html```, and other files (.html) on GitHub.io repository.
+6. Develop website by editing/creating `default.css`, `index.html`, and other HTML files.
 
 ## Verification of Website
 
-Verifying your website on different search engines allows it to be retrieved by users through the Internet.
+Verifying your website on different search engines allows it to be retrieved by users through the Internet. Last updated: 01 Feb 2019.
 
-### Verify website on Google
+### Google Search Engine
 
 1. Open [Google Search Console](https://search.google.com/search-console/about) and log in with Google account.
 
@@ -69,13 +72,13 @@ Verifying your website on different search engines allows it to be retrieved by 
 
 3. Type __https://aaa.github.io__ in the input box of pop-up window and click "CONTINUE".
 
-4. Download the file called ```google***.html``` and upload it to your GitHub.io repository.
+4. Download the verfication file `google***.html` and upload it to your GitHub.io repository.
 
 5. Go back to the verification page. Wait a few minutes and click "VERIFY".
 
 6. Complete verification on Google search engine!
 
-### Verify website on Baidu
+### Baidu Search Engine
 
 1. Open [Baidu Resource Platform](https://ziyuan.baidu.com/) and log in with Baidu account.
 
@@ -87,7 +90,7 @@ Verifying your website on different search engines allows it to be retrieved by 
 
 5. Select verification method - document verification.
 
-6. Download the file named as ```baidu_verify***.html``` and upload to your GitHub.io repository.
+6. Download the verification file `baidu_verify***.html` and upload it to your GitHub.io repository.
 
 7. Go back to the verification page. Wait a few minutes and click "COMPLETE VERIFICATION".
 
@@ -103,9 +106,9 @@ Verifying your website on different search engines allows it to be retrieved by 
 
 <br>
 
-<i>Please star this repository if you found its content useful. Thank you very much.</i>
+<i>Please star this repository if you found its content useful. Thank you very much. ^_^</i>
 
-<i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。</i>
+<i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。 ^_^</i>
 
-<i>Last updated: 15/03/2019</i>
+<i>Last updated: 18/03/2019</i>
 
