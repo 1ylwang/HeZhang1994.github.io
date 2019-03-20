@@ -9,7 +9,7 @@ This is an **HTML-CSS** implementation of developing personal website with **Git
 
 Many thanks to [TEMPLATED](http://templated.co) for providing the source template in `SourceTemplate_privy/`.
 
-## Contents.
+## Contents
 
 - `audio/` - The folder that contains the audio used in website.
 
@@ -104,4 +104,4 @@ Verifying your website on search engines allows it to be retrieved by users thro
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
 
-<i>Last updated: 18/03/2019</i>
+<i>Last updated: 20/03/2019</i>
