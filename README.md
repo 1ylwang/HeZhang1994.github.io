@@ -62,7 +62,7 @@ $ cd aaa.github.io
 
 ## Website Verification on Google Search Engine
 
-Verifying the website on search engines provides your ownership to this website. The following procedures show how to verify the website __https://aaa.github.io/__ on Google Search Engine.
+Verifying the website on search engines provides your ownership to this website. The following procedures show how to verify the website __https://aaa.github.io/__ on Google search engine.
 
 <img src="https://github.com/HeZhang1994/HeZhang1994.github.io/blob/master/images/Website_GoogleVerification.gif" height="350">
 
@@ -70,9 +70,9 @@ Verifying the website on search engines provides your ownership to this website.
 
 2. Click top-left drop-down arrow and then click "+ Add property".
 
-3. Type "https://aaa.github.io" in the input box of "URL prefix" tag and then click "CONTINUE".
+3. Type `https://aaa.github.io` in the input box of "URL prefix" tag and then click "CONTINUE".
 
-4. Download the verification file `google***.html` and upload it to __aaa.github.io__ GitHub repository.
+4. Download the verification file `google***.html` and upload it to __aaa.github.io__ repository.
 
 5. Go back to the verification page. Wait a few minutes and click "VERIFY".
 
