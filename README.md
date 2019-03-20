@@ -70,7 +70,7 @@ Verifying the website on search engines provides your ownership to this website.
 
 2. Click top-left drop-down arrow and then click "+ Add property".
 
-3. Type `https://aaa.github.io` in the input box of "URL prefix" tag and then click "CONTINUE".
+3. Type `https://aaa.github.io/` in the input box of "URL prefix" tag and then click "CONTINUE".
 
 4. Download the verification file `google***.html` and upload it to `aaa.github.io` repository.
 
