@@ -40,9 +40,9 @@ $ git config --global user.name "aaa"
 # E.g., $ git config --global user.name "hz".
 ```
 
-2. Create a public repository __aaa.github.io__ on GitHub, where __aaa__ should be your GitHub user name. You can now use the website templates provided by GitHub (see [here](https://blog.csdn.net/renfufei/article/details/37725057)), or continue the configuration and use other templates later.
+2. Create a public repository called `aaa.github.io` on GitHub, where `aaa` should be your GitHub user name. You can now use the website templates provided by GitHub (see [here](https://blog.csdn.net/renfufei/article/details/37725057)), or continue the configuration and use other templates later.
 
-3. Clone __aaa.github.io__ repository to local computer in Terminal.
+3. Clone `aaa.github.io` repository to local computer in Terminal.
 ```bash
 $ git clone https://github.com/aaa/aaa.github.io
 ```
@@ -72,7 +72,7 @@ Verifying the website on search engines provides your ownership to this website.
 
 3. Type `https://aaa.github.io` in the input box of "URL prefix" tag and then click "CONTINUE".
 
-4. Download the verification file `google***.html` and upload it to __aaa.github.io__ repository.
+4. Download the verification file `google***.html` and upload it to `aaa.github.io` repository.
 
 5. Go back to the verification page. Wait a few minutes and click "VERIFY".
 
