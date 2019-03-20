@@ -11,17 +11,17 @@ Many thanks to [TEMPLATED](http://templated.co) for providing the source templat
 
 ## Contents
 
-- `audio/` - The folder that contains the audio used in website.
+- `audio/` - The folder that contains the audio used in the website.
 
-- `images/` - The folder that contains the images used in website.
+- `images/` - The folder that contains the images used in the website.
 
-- `default.css` - The CSS file that defines the characteristics of website.
+- `default.css` - The CSS file that defines the characteristics of the website.
 
-- `index.html` - The HTML source file of home page.
+- `index.html` - The HTML source file of the website home page.
 
-- `hz***.html` - The HTML source file of child web page.
+- `hz***.html` - The HTML source file of a website child page.
 
-- `google***.html` - The verification file of Google search engine.
+- `google***.html` - The website verification file of Google search engine.
 
 <!--- `baidu***.html` - The verification file of Baidu search engine.-->
 
@@ -40,7 +40,7 @@ $ git config --global user.name "aaa"
 # E.g., $ git config --global user.name "hz".
 ```
 
-2. Create a public repository called `aaa.github.io` on GitHub, where `aaa` should be your GitHub user name. You can now use the website templates provided by GitHub (see [here](https://blog.csdn.net/renfufei/article/details/37725057)), or continue the configuration and use other templates later.
+2. Create a public repository called `aaa.github.io` on GitHub, where `aaa` should be your GitHub user name. You can now use website templates provided by GitHub (see [here](https://blog.csdn.net/renfufei/article/details/37725057)), or continue the configuration and use other templates later.
 
 3. Clone `aaa.github.io` repository to local computer in Terminal.
 ```bash
@@ -62,21 +62,21 @@ $ cd aaa.github.io
 
 ## Website Verification on Google Search Engine
 
-Verifying the website on search engines provides your ownership to this website. The following procedures show how to verify the website __https://aaa.github.io/__ on Google search engine.
+Verifying a website on search engines provides your ownership to this website. The following procedures show how to verify the website __https://aaa.github.io/__ on Google search engine.
 
 <img src="https://github.com/HeZhang1994/HeZhang1994.github.io/blob/master/images/Website_GoogleVerification.gif" height="350">
 
 1. Open [Google Search Console](https://search.google.com/search-console/about) and log in with your Google account.
 
-2. Click top-left drop-down arrow and then click "+ Add property".
+2. Click the drop-down arrow on the top-left and then click "+ Add property" buttion.
 
-3. Type `https://aaa.github.io/` in the input box of "URL prefix" tag and then click "CONTINUE".
+3. Type `https://aaa.github.io/` in the input box of "URL prefix" tag and then click "CONTINUE" button.
 
 4. Download the verification file `google***.html` and upload it to `aaa.github.io` repository.
 
-5. Go back to the verification page. Wait a few minutes and click "VERIFY".
+5. Go back to the verification page. Wait a few minutes and click "VERIFY" button.
 
-6. Verification on Google search engine is accomplished.
+6. Verification on Google search engine has accomplished.
 
 <!--
 ### Baidu Search Engine
