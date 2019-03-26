@@ -5,7 +5,7 @@
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
-This is an **HTML-CSS** implementation of developing personal website with **GitHub.io**.
+This is an **HTML** implementation of developing personal website with **GitHub.io**.
 
 Many thanks to [TEMPLATED](http://templated.co) for providing the source template in `SourceTemplate_privy/`.
 
