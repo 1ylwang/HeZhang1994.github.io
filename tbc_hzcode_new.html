@@ -1,3 +1,4 @@
+<!-- Java is really difficult... -->
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -46,32 +47,15 @@
         <div class="title">
           <h2>He Zhang's Code Page</h2>
         </div>
-
-        <script>
-          function getRepositoryData(owner, repo) {
-            var url = 'https://api.github.com/repos/' + owner + '/' + repo;
-            $.ajax({
-              url : url,
-              type : 'GET',
-              dataType : 'json',
-              success : function(data) {
-                var elem = $('#' + owner + '-' + repo);
-                elem.find('.card-footer .language span.name').text(data.language);
-                elem.find('.card-footer .language i:first').attr('style', 'color: ' + getLanguageColor(data.language) + ';');
-                elem.find('.card-footer .stargazers span.number').text(data.stargazers_count);
-                elem.find('.card-footer .forks span.number').text(data.forks);
-              }
-            });
-          }
-          function getAllRepositoryData() {
-            getRepositoryData('hezhang1994', 'digital-elevation-model');
-          }
-          getAllRepositoryData();
-        </script>
-            
-            
         <ul>
           <li><p>MATLAB for hyper-graph matching [<a href="https://github.com/HeZhang1994/hypergraph-matching" target="_blank" rel="nofollow">Code</a>]</p></li>
+          <p id="hm"></p>
+          <script>
+              var url = 'https://api.github.com/repos/' + 'hezhang1994' + '/' + 'hypergraph-matching'
+              var txt = http.get(url)
+              var obj = JSON.parse(txt);
+              document.getElementById("hm").innerHTML = obj.stargazers_count;
+          </script>
         </ul>
         <ul>
           <li><p>Python for processing digital elevation models [<a href="https://github.com/HeZhang1994/digital-elevation-model" target="_blank" rel="nofollow">Code</a>]</p></li>
