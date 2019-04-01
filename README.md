@@ -7,7 +7,7 @@
 
 This is an **HTML** implementation of developing personal website with **GitHub.io**.
 
-Many thanks to [TEMPLATED](http://templated.co) for providing the source template in `SourceTemplate_privy/`.
+Many thanks to [TEMPLATED](http://templated.co) for providing the source template of this website (see `SourceTemplate_privy/`).
 
 ## Contents
 
@@ -104,4 +104,4 @@ Verifying a website on search engines provides your ownership to this website. T
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
 
-<i>Last updated: 31/03/2019</i>
+<i>Last updated: 01/04/2019</i>
