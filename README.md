@@ -68,7 +68,7 @@ Verifying a website on search engines provides your ownership to this website. T
 
 1. Open [Google Search Console](https://search.google.com/search-console/about) and log in with your Google account.
 
-2. Click the drop-down arrow on the top-left and then click "+ Add property" buttion.
+2. Click the drop-down arrow on the top-left and then click "+ Add property" button.
 
 3. Type `https://aaa.github.io/` in the input box of "URL prefix" tag and then click "CONTINUE" button.
 
@@ -104,4 +104,4 @@ Verifying a website on search engines provides your ownership to this website. T
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
 
-<i>Last updated: 09/04/2019</i>
+<i>Last updated: 12/04/2019</i>
