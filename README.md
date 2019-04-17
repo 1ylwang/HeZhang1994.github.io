@@ -11,28 +11,24 @@ Many thanks to [TEMPLATED](http://templated.co) for providing the source templat
 
 ## Contents
 
-- `audio/` - The folder that contains the audio used in the website.
-
-- `images/` - The folder that contains the images used in the website.
-
 - `default.css` - The CSS file that defines the characteristics of the website.
 
-- `index.html` - The HTML source file of the website home page.
+- `index.html` - The HTML file of the home page of website.
 
-- `hz***.html` - The HTML source file of a website child page.
+- `hz***.html` - The HTML file of the child page of website.
 
-- `google***.html` - The website verification file of Google search engine.
+- `baidu***.html` - The verification file of website on Baidu search engine.
 
-<!--- `baidu***.html` - The verification file of Baidu search engine.-->
+- `google***.html` - The verification file of website on Google search engine.
 
 ## Website Configuration and Establishment
 
-The following procedures for setting up a website with GitHub.io are partly recapitulated from [here](https://pages.github.com/). For detailed information of how to use `git`, see this [online tutorial](https://chryswoods.com/beginning_git/) provided by [Christopher Woods](https://github.com/chryswoods).
+The following procedures for setting up a website with **GitHub.io** are partly recapitulated from [here](https://pages.github.com/). For detailed information of how to use `git`, see the [online tutorial](https://chryswoods.com/beginning_git/) provided by [Christopher Woods](https://github.com/chryswoods).
 
 1. Configure your GitHub client on local computer.
 ```bash
 $ git config --global user.email "xxx@xxx.xxx"
-# Replace 'xxx@xxx.xxx' with your GitHub registered email.
+# Replace 'xxx@xxx.xxx' with your GitHub login email.
 # E.g., $ git config --global user.email "hz@gmail.com".
 
 $ git config --global user.name "aaa"
@@ -40,7 +36,7 @@ $ git config --global user.name "aaa"
 # E.g., $ git config --global user.name "hz".
 ```
 
-2. Create a public repository called `aaa.github.io` on GitHub, where `aaa` should be your GitHub user name. You can now use website templates provided by GitHub (see [here](https://blog.csdn.net/renfufei/article/details/37725057)), or continue the configuration and use other templates later.
+2. Create a public repository called `aaa.github.io` on GitHub, where `aaa` should be your GitHub user name. You can now use website templates provided by GitHub, or continue the configuration and use other templates later.
 
 3. Clone `aaa.github.io` repository to local computer in Terminal.
 ```bash
@@ -97,6 +93,8 @@ Verifying a website on search engines provides your ownership to this website. T
 * Online picture resizer - [Picresize](http://www.picresize.com/)
 
 * Online picture format converter - [Online-Converter](https://www.online-convert.com/)
+
+* [CSDN Blog](https://blog.csdn.net/renfufei/article/details/37725057)
 
 <br>
 
