@@ -103,5 +103,3 @@ Verifying a website on search engines provides your ownership to this website. T
 <i>Please star this repository if you found its content useful. Thank you very much. ^_^</i>
 
 <i>如果该程序对您有帮助，请为该程序加星支持哈，非常感谢。^_^</i>
-
-<i>Last updated: 14/04/2019</i>
