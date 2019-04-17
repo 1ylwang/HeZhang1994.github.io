@@ -36,7 +36,7 @@ $ git config --global user.name "aaa"
 # E.g., $ git config --global user.name "hz".
 ```
 
-2. Create a public repository called `aaa.github.io` on GitHub, where `aaa` should be your GitHub user name. You can now use website templates provided by GitHub, or continue the configuration and use other templates later.
+2. Create a public repository called `aaa.github.io` on GitHub, where `aaa` is your GitHub user name. You can now use website templates provided by GitHub, or continue the establishment and use other templates later.
 
 3. Clone `aaa.github.io` repository to local computer in Terminal.
 ```bash
