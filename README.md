@@ -33,7 +33,7 @@ $ git config --global user.email "xxx@xxx.xxx"
 
 $ git config --global user.name "aaa"
 # Replace 'aaa' with your GitHub user name.
-# E.g., $ git config --global user.name "hz".
+# E.g., $ git config --global user.name "hezhang".
 ```
 
 2. Create a public repository called `aaa.github.io` on GitHub, where `aaa` is your GitHub user name. You can now use website templates provided by GitHub, or continue the establishment and use other templates later.
@@ -52,23 +52,23 @@ $ cd aaa.github.io
 ~$ git push -u origin master
 ```
 
-5. After a few minutes, open __https://aaa.github.io/__ on browser and you will see "Hello World" on the website.
+5. After a few minutes, open https://aaa.github.io/ on browser and you will see "Hello World" on the website.
 
-6. Now you can develop the website by editing/creating `default.css`, `index.html`, and other HTML files.
+6. Now you can develop the website by editing/creating `default.css`, `index.html`, and other HTML/CSS files.
 
 ## Website Verification on Google Search Engine
 
-Verifying a website on search engines provides your ownership to this website. The following procedures show how to verify the website __https://aaa.github.io/__ on Google search engine.
+Verifying a website on search engines provides you the ownership to this website. The following procedures show how to verify the website https://aaa.github.io/ on Google search engine.
 
 <img src="https://github.com/HeZhang1994/HeZhang1994.github.io/blob/master/images/Website_GoogleVerification.gif" height="350">
 
 1. Open [Google Search Console](https://search.google.com/search-console/about) and log in with your Google account.
 
-2. Click the drop-down arrow on the top-left and then click "+ Add property" button.
+2. Click the drop-down arrow on the top-left corner and then click "+ Add property" button.
 
-3. Type `https://aaa.github.io/` in the input box of "URL prefix" tag and then click "CONTINUE" button.
+3. Type `https://aaa.github.io/` in the input box of "URL prefix" page and then click "CONTINUE" button.
 
-4. Download the verification file `google***.html` and upload it to `aaa.github.io` repository.
+4. Download the verification file `google***.html` and upload it to `aaa.github.io` repository on GitHub.
 
 5. Go back to the verification page. Wait a few minutes and click "VERIFY" button.
 
