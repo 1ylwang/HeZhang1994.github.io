@@ -3,7 +3,6 @@
 [![image](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/HeZhang1994/HeZhang1994.github.io/blob/master/LICENSE)
 [![image](https://img.shields.io/badge/lagrange-html5-blue.svg)]()
 [![image](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
-[![image](https://img.shields.io/badge/build-passing-brightgreen.svg)]()
 
 This is an **HTML** implementation of developing personal website with **GitHub.io**.
 
